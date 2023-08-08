@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqGUIApp31", "LinqGUIApp31\LinqGUIApp31.csproj", "{41310086-01F4-49C6-A161-EF9CAC203323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41310086-01F4-49C6-A161-EF9CAC203323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41310086-01F4-49C6-A161-EF9CAC203323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41310086-01F4-49C6-A161-EF9CAC203323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41310086-01F4-49C6-A161-EF9CAC203323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65C2112-C3D7-47DA-8C55-DD5329B8E0B4}
+	EndGlobalSection
+EndGlobal
